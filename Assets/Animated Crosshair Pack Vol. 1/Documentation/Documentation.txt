@@ -1,0 +1,19 @@
+---------- Documentation ----------
+
+1. Open up a Unity scene of your choosing.
+
+2. Create a Canvas (GameObject -> UI -> Canvas) game object into your scene's Hierarchy tab if there isn't one already.
+
+3. In the Project tab, open the Prefabs folder (Assets -> Animated Crosshair Pack Vol. 1 -> Prefabs).
+
+4. Open either the Markers folder or the Marker Combos folder.
+
+4. Drag and drop any one of the prefabs onto the Canvas game object to make that that prefab is the canvas's child.
+
+5. You should now see the crosshair on your game screen.
+
+6. You can scale, rotate, and move the prefab whichever way you'd like.
+
+7. If you select all of the prefab's children (prefab excluded), you can even change the color from white to anything else!
+
+8. Click on the Play button in the Unity Editor to playtest your scene; the crosshair should be zooming in and out in a steady loop.
